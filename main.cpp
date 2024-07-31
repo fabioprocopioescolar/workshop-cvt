@@ -13,6 +13,6 @@ int main()
     
     media = (nota1 + nota2) / 2;
     
-    cout << "Média final: " << media;
+    cout << "Média: " << media;
     return 0;
 }
